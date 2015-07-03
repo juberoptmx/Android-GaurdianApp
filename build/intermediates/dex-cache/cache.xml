@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.dlazaro66.qrcodereaderview/qrcodereaderview/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cd3f0aeca8f8e53d60cad6597e69d5d753fb0360">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-fd0e7b44892e53d1f6c4692b3afbefca3d35d6ab.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-d68bc5cdded49983549e146b66467f72fef6ad54.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/.gradle/caches/modules-2/files-2.1/com.googlecode.android-query/android-query/0.25.9/fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f/android-query-0.25.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/android-query-0.25.9-8a4e9fffa6e6d62dd1903404ba6b121b8de4543c.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-bf2e2104dc5d89d53812afa9bf82106c9530968b.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-0f42818098d33edee9a7f8a01b7028aff43160d4.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-b8d3a08c6a6f7f4aeb234fac9489ef4bdc42fe3c.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-4d73941b7d7daef8dca0160ab12ead0016c43e61.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-47cb3a2fe993cf411ff74272850312b187610087.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-398ba97a3c56f63120ac7d5bae6f818e597f7c00.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/libs/android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.4-217bb890c7c55a3dc5a08a4af9997ee96309eeef.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-7ded92a42d004d341b842514d7dfe7a6c1a1713d.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-e5a310441a2ec40f5565be3baf873d00d11073c8.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-280046066a259b1342ed5a3a3d0de0d41c497f4b.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-330ca49340f889c2ab05f368524c4c37a09556f1.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-2cc74715fe7af6a6899911e12ae958060bb00cda.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-3701f3c23d2472bb393c1deab1fce75448e58c8d.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-0feb9eb005a0cb9a497544a72d96bdea3c002dd9.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-f8091a83f3ea6bd94635d1153070cd9b7239284a.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-2c97bc2a3976879e3090c757293aa7596bcaef9f.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-4afe6cd894eade5d6ae50b7c07b7cf63fc04d483.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-b6ff5b9503f89ab4ab280d661f01bd8ac585a4cf.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-4bea0ad7ca298561d9df928f18248ec288678f26.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-7bdf9598dbf2af394f6733fe9f98cae181157035.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-645be50326cb47a8f297baa90939bfa285aeac33.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-a24dcac489899ab1ad3484138343226116fec0d6.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/classes-d774209ce6e7face11e130b0ce35fe5231e5b9a5.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.dlazaro66.qrcodereaderview/qrcodereaderview/1.0.0/jars/libs/core.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f3c7e89b5124329cddba83bcf7c26c1c636c16b8">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/core-6a9838fc0dbacedc7c7cd62d2eeceff971615ef5.jar" />
+    </item>
+    <item
+        jar="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/optadmin/Documents/Opteamix/Android Projects/GCMGreetingApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-be8a0a8eee14e55710b973acb79b6f5378616eac.jar" />
+    </item>
+
+</items>
